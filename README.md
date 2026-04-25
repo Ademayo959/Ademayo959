@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademayo959&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ademayo959&theme=radical)
 <!--
 **Ademayo959/Ademayo959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
