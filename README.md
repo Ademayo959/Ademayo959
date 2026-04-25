@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademayo959&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ademayo959&theme=radical&no-frame=true&row=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ademayo959&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ademayo959&theme=tokyo-night)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
