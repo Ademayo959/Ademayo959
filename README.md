@@ -4,26 +4,26 @@
   <img src="https://komarev.com/ghpvc/?username=Ademayo959&label=Profile+Views&color=0e75b6&style=flat" />
 </p><h1 align="center">👋 Hi, I'm Mayowa</h1><p align="center">
 💻 Software Engineering student • 🚀 I build real-world web apps • ⚡ One boy like that
-</p>---
+</p>
 
 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,git,github,vscode" />
-</p>---
+</p>
 
 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Ademayo959&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ademayo959&theme=tokyonight" />
-</p>---
+</p>
 
 🧠 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=tokyonight" />
-</p>---
+</p>
 
 🗳️ Featured Project — VoteLive
 
@@ -36,19 +36,19 @@ A real-time voting platform with live results and secure ballot system
 🔹 Features: Live voting • Secure flow • Real-time updates
 </p><p align="center">
   <a href="https://github.com/Ademayo959">🔗 View Code</a>
-</p>---
+</p>
 
 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ademayo959&theme=tokyo-night" />
-</p>---
+</p>
 
 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ademayo959&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>---
+</p>
 
 🎯 Current Focus
 
@@ -56,14 +56,14 @@ A real-time voting platform with live results and secure ballot system
 - ⚡ Scaling VoteLive
 - 🧠 Building production-ready apps
 
----
+
 
 🌐 Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/yourusername">Twitter</a> •
   <a href="https://github.com/Ademayo959">GitHub</a>
-</p>---
+</p>
 
 <p align="center">
 ✨ “Learning by building — one project at a time.”
