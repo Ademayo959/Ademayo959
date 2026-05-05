@@ -1,6 +1,6 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademayo959&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ademayo959&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ademayo959&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ademayo959&theme=tokyo-night)
 
