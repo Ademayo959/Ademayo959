@@ -3,7 +3,7 @@
 </p><!-- 👀 PROFILE VIEWS --><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ademayo959&label=Profile+Views&color=0e75b6&style=flat" />
 </p><h1 align="center">👋 Hi, I'm Mayowa</h1><p align="center">
-💻 Software Engineering student • 🚀 I build real-world web apps • ⚡ Creator of VoteLive
+💻 Software Engineering student • 🚀 I build real-world web apps • ⚡ One boy like that
 </p>---
 
 🚀 Tech Stack
