@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Real+World+Projects;One+boy+like+that;Learning+Node.js" />
 </p><!-- 👀 PROFILE VIEWS --><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ademayo959&label=Profile+Views&color=0e75b6&style=flat" />
-</p><h1 align="center">👋 Hi, I'm Mayowa</h1><p align="center">
-💻 Software Engineering student • 🚀 I build real-world web apps • ⚡ One boy like that
-</p>
 
 🚀 Tech Stack
 
