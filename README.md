@@ -9,7 +9,7 @@
 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,nodejs,git,github,vscode,expressjs,mongodb,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,firebase,nodejs,git,github,vscode,expressjs,mongodb,figma" />
 </p>
 
 📊 GitHub Stats
