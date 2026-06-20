@@ -13,44 +13,11 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ademayo959&theme=tokyonight" />
 </p>
 
-🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ademayo959&layout=compact&theme=tokyonight" />
-</p>
-
-🗳️ Featured Project — VoteLive
-
-<p align="center">
-A real-time voting platform with live results and secure ballot system
-</p><p align="center">
-  <img src="YOUR_GIF_OR_SCREENSHOT_LINK" width="700" />
-</p><p align="center">
-🔹 Built with: React, Firebase <br/>
-🔹 Features: Live voting • Secure flow • Real-time updates
-</p><p align="center">
-  <a href="https://github.com/Ademayo959">🔗 View Code</a>
-</p>
-
 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ademayo959&theme=tokyo-night" />
 </p>
-
-🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ademayo959&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-🎯 Current Focus
-
-- 🔥 Backend development with Node.js
-- ⚡ Scaling VoteLive
-- 🧠 Building production-ready apps
-
-
 
 🌐 Connect With Me
 
@@ -64,17 +31,3 @@ A real-time voting platform with live results and secure ballot system
 </p><!-- 🐍 SNAKE ANIMATION (OPTIONAL - REQUIRES SETUP) --><p align="center">
   <img src="https://raw.githubusercontent.com/Ademayo959/Ademayo959/output/snake.svg" />
 </p> 
-<!--
-**Ademayo959/Ademayo959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
