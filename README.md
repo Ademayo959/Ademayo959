@@ -28,6 +28,5 @@
 
 <p align="center">
 ✨ “Learning by building — one project at a time.”
-</p><!-- 🐍 SNAKE ANIMATION (OPTIONAL - REQUIRES SETUP) --><p align="center">
-  <img src="https://raw.githubusercontent.com/Ademayo959/Ademayo959/output/snake.svg" />
-</p> 
+
+
