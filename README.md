@@ -22,8 +22,9 @@
 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/yourusername">Twitter</a> •
+  <a href="https://x.com/build_pixels">Twitter</a> •
   <a href="https://github.com/Ademayo959">GitHub</a>
+    <a href="https://www.linkedin.com/in/adeleye-mayowa/">LinkedIn</a>
 </p>
 
 <p align="center">
